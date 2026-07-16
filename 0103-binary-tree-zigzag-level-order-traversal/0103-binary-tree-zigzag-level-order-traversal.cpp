@@ -24,8 +24,8 @@ public:
             vector<int> temp;
             for(int i =0; i<n;i++){
                 TreeNode* f = q.front();
-                q.pop();
                 temp.push_back(f->val);
+                q.pop();
                 if(f->left){
                     q.push(f->left);
                 }
