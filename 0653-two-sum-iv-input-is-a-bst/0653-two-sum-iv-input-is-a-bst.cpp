@@ -20,16 +20,22 @@ public:
     bool findTarget(TreeNode* root, int k) {
         vector<int> v;
         ino(root,v);
-        bool found=false;
         int n = v.size();
-        for(int i =0; i<n;i++){
-            for(int j =i+1;j<n;j++){
-                if(v[i]+v[j]==k){
-                    found= true;
-                }
+        int i=0;
+        int j=n-1;
+        while(i<j){
+            int sum=v[i]+v[j];
+            if(sum==k){
+                return true;
+            }
+            else if(sum<k){
+                i++;
+            }
+            else{
+                j--;
             }
         }
-        return found;
+        return false;
 
     }
 };
