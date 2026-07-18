@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kritisingh7488/Leetcode/tree/master/0088-merge-sorted-array) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/kritisingh7488/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/kritisingh7488/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/kritisingh7488/Leetcode/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/kritisingh7488/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/kritisingh7488/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/kritisingh7488/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/kritisingh7488/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/kritisingh7488/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
