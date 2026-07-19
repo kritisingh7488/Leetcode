@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/kritisingh7488/Leetcode/tree/master/0058-length-of-last-word) |
 | [2418-sort-the-people](https://github.com/kritisingh7488/Leetcode/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
