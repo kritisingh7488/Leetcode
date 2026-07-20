@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kritisingh7488/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kritisingh7488/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kritisingh7488/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/kritisingh7488/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/kritisingh7488/Leetcode/tree/master/2418-sort-the-people) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kritisingh7488/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kritisingh7488/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/kritisingh7488/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/kritisingh7488/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/kritisingh7488/Leetcode/tree/master/2418-sort-the-people) |
@@ -135,4 +137,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kritisingh7488/Leetcode/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kritisingh7488/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kritisingh7488/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kritisingh7488/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
