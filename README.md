@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/kritisingh7488/Leetcode/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/kritisingh7488/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kritisingh7488/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/kritisingh7488/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/kritisingh7488/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/kritisingh7488/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
