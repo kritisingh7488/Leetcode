@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/kritisingh7488/Leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/kritisingh7488/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kritisingh7488/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kritisingh7488/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/kritisingh7488/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kritisingh7488/Leetcode/tree/master/0078-subsets) |
 | [1486-xor-operation-in-an-array](https://github.com/kritisingh7488/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Tree
 |  |
@@ -176,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/kritisingh7488/Leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/kritisingh7488/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
