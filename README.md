@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kritisingh7488/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kritisingh7488/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kritisingh7488/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0200-number-of-islands](https://github.com/kritisingh7488/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kritisingh7488/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/kritisingh7488/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/kritisingh7488/Leetcode/tree/master/0733-flood-fill) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kritisingh7488/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kritisingh7488/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/kritisingh7488/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kritisingh7488/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kritisingh7488/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kritisingh7488/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/kritisingh7488/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kritisingh7488/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -188,5 +191,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kritisingh7488/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kritisingh7488/Leetcode/tree/master/0733-flood-fill) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kritisingh7488/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
