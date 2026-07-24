@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/kritisingh7488/Leetcode/tree/master/0039-combination-sum) |
+| [0075-sort-colors](https://github.com/kritisingh7488/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kritisingh7488/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kritisingh7488/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kritisingh7488/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kritisingh7488/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kritisingh7488/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kritisingh7488/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/kritisingh7488/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kritisingh7488/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kritisingh7488/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kritisingh7488/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/kritisingh7488/Leetcode/tree/master/0658-find-k-closest-elements) |
