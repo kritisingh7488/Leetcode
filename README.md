@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kritisingh7488/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kritisingh7488/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/kritisingh7488/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/kritisingh7488/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kritisingh7488/Leetcode/tree/master/0733-flood-fill) |
 | [0973-k-closest-points-to-origin](https://github.com/kritisingh7488/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1480-running-sum-of-1d-array](https://github.com/kritisingh7488/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kritisingh7488/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/kritisingh7488/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kritisingh7488/Leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kritisingh7488/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/kritisingh7488/Leetcode/tree/master/0938-range-sum-of-bst) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kritisingh7488/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/kritisingh7488/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kritisingh7488/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/kritisingh7488/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kritisingh7488/Leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kritisingh7488/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
@@ -192,9 +195,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kritisingh7488/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/kritisingh7488/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kritisingh7488/Leetcode/tree/master/0733-flood-fill) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kritisingh7488/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/kritisingh7488/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
