@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kritisingh7488/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kritisingh7488/Leetcode/tree/master/0733-flood-fill) |
 | [0973-k-closest-points-to-origin](https://github.com/kritisingh7488/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/kritisingh7488/Leetcode/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/kritisingh7488/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kritisingh7488/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/kritisingh7488/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kritisingh7488/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kritisingh7488/Leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kritisingh7488/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/kritisingh7488/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kritisingh7488/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kritisingh7488/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kritisingh7488/Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/kritisingh7488/Leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
