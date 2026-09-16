@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kritisingh7488/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kritisingh7488/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/kritisingh7488/Leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/kritisingh7488/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/kritisingh7488/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kritisingh7488/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/kritisingh7488/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kritisingh7488/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/kritisingh7488/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/kritisingh7488/Leetcode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/kritisingh7488/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1486-xor-operation-in-an-array](https://github.com/kritisingh7488/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/kritisingh7488/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kritisingh7488/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/kritisingh7488/Leetcode/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kritisingh7488/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/kritisingh7488/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Stack
