@@ -11,6 +11,7 @@ public:
             else{
                 arr.push_back(nums2[j++]);
             }
+
         }
         while(i<m){
             arr.push_back(nums1[i++]);
@@ -18,8 +19,8 @@ public:
         while(j<n){
             arr.push_back(nums2[j++]);
         }
-        for(int i =0; i<m+n;i++){
-            nums1[i]=arr[i];
+        for(int k=0;k<m+n;k++){
+            nums1[k] = arr[k];
         }
     }
 };
